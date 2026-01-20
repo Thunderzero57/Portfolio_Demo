@@ -354,10 +354,11 @@ const Portfolio = () => {
           <Github className="cursor-pointer hover:text-purple-400 transition-colors" size={24} />
           <Linkedin className="cursor-pointer hover:text-purple-400 transition-colors" size={24} />
         </div>
-        <p className="text-gray-400">© 2024 All rights reserved to Sanjid Islam Joy</p>
+        <p className="text-gray-400">© All rights reserved to Sanjid Islam Joy</p>
       </footer>
     </div>
   );
 };
+
 
 export default Portfolio;
